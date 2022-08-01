@@ -3,9 +3,11 @@
     background-color: coral;
     display: flex;
 }
+
 .item{
     height: 200px;
 }
+
 .item1{
     background-color: pink;
     width: 100px;
